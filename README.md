@@ -54,6 +54,7 @@ Bienvenue sur mon profil GitHub ! Voici un aperçu de ce que je fais :
     <img src="https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white">
     <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white">
     <img src="https://img.shields.io/badge/sqlite-%23003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white">
+    <img src="https://img.shields.io/badge/dbeaver-%23003B57.svg?style=for-the-badge&logo=dbeaver&logoColor=white">
     <h6>⚙️ DevOps, Outils & Autres</h6>
     <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
     <img src="https://img.shields.io/badge/podman-%23892CA0.svg?style=for-the-badge&logo=podman&logoColor=white">
