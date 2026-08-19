@@ -9,7 +9,7 @@ Bienvenue sur mon profil GitHub ! Voici un aperçu de ce que je fais :
 * 🏢 En alternance chez [**APRIL Marine**](https://www.aprilmarine.fr/)
 * 🔭 J'approfondis ma maîtrise sur **PHP**,  **Symfony 7/8**, **API Platform** et **Podman**
 * 🌱 J'apprends actuellement diverses technologies : **React**, **Microsoft Azure**, **Docker**... (Prochainement NextJS)
-* 🎯 Objectif : Recherche un **CDI** à partir d'**Octobre 2026** sur **Nantes** ou en **Vendée**
+* 🎯 Objectif : Recherche un **CDI** à partir de début **Octobre 2026** sur **Nantes** ou en **Vendée**
 * - Vous pouvez me contacter sur [LinkedIn](https://www.linkedin.com/in/luca-chaboissier/) ou par [mail](mailto:lucachaboissier@outlook.fr)
 
 ---
