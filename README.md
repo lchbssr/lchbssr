@@ -6,10 +6,11 @@ Bienvenue sur mon profil GitHub ! Voici un aperçu de ce que je fais :
 
 * 👨 Luca, 24 ans
 * 📍 Vendée / Nantes
-* 🏢 En alternance chez [**APRIL Marine**](https://www.aprilmarine.fr/)
+* 🎓 Mastère Expert en Développement Fullstack (Ynov Nantes)
+* 🏢 2 ans d'alternance chez [**APRIL Marine**](https://www.aprilmarine.fr/) en tant que développeur Symfony (2024 - 2026)
 * 🔭 J'approfondis ma maîtrise sur **PHP**,  **Symfony 7/8**, **API Platform** et **Podman**
-* 🌱 J'apprends actuellement diverses technologies : **React**, **Microsoft Azure**, **Docker**... (Prochainement NextJS)
-* 🎯 Objectif : Recherche un **CDI** à partir de début **Octobre 2026** sur **Nantes** ou en **Vendée**
+* 🌱 J'apprends actuellement diverses technologies : **React**, **Microsoft Azure**, **Docker**...
+* 🎯 Objectif : **Disponible immédiatement** pour un **CDI** sur **Nantes** ou en **Vendée**
 * - Vous pouvez me contacter sur [LinkedIn](https://www.linkedin.com/in/luca-chaboissier/) ou par [mail](mailto:lucachaboissier@outlook.fr)
 
 ---
